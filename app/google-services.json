@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1003048682474",
+    "project_id": "absensi-21",
+    "storage_bucket": "absensi-21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003048682474:android:f8c83149ade3c9d4c42893",
+        "android_client_info": {
+          "package_name": "com.lala.absensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003048682474-23todgp7a32l676oighdtg4l08cmvc0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lala.absensi",
+            "certificate_hash": "0f08022ba5c77819a66120c89fdfd91f6fdc590a"
+          }
+        },
+        {
+          "client_id": "1003048682474-or7o2up8tfm5cmkmebq7l16hl6fp32uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsEAmn-FLxQvnVC8AzeDLpuXz8agivdJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003048682474-or7o2up8tfm5cmkmebq7l16hl6fp32uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
